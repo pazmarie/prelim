@@ -186,3 +186,16 @@ a:hover, a:active{
     margin: 10px auto;
     color: #FFF;
 }
+
+/*CSS FOR THE ABOUT PAGE*/
+
+.aboutcontent {
+    width: 96%;
+    float: left;
+    background-color: #FFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 1% 1%;
+    margin-bottom: 1%;
+}
